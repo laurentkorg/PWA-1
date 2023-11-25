@@ -1,0 +1,23 @@
+   {
+    "name": "Ink Bag",
+    "short_name": "InkBag",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhycbvwV15Uf1YpJDqiqE8DdtebIB5f64XesjECOZ-npfl7OsW9Cu60vPM-c4EG-9iRhc6G_vh-yFrcoigbRuG39QIOjGwnc5W6jXXzAHBnHS7Tz7RZlgRTNFjqiyCTDgz0pw6RHZ9OaByBlSAkKxdEeGTcEnEAExVELifQsdD3Zt1a8CiTflh13sTPRbA=s16000",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh237LiG9kFMu5d72fLYfGX6DADvoV8v4y-9buiQUasSHvL96uu8siEHqyNzbrewfOMD29kY2kmvWF0y9cdnvFkGpGaIU0Zrib4H9FWuwDNx38HoXPFhOhlumbBkc9xBNGeQYMpGIMfTtxthamInopxw5aokFdEHXH0UiPTOBF5l3G5uv-fiI-Yt6i7kW0=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://inkbag.blogspot.com/"
+}
